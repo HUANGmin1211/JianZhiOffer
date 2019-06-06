@@ -17,7 +17,6 @@ import org.junit.Test;
  */
 public class Regex {
     public static boolean isMatch(String s, String p) {
-
         if (s.length() == 0 && p.length() == 0) {
             return true;
         }
@@ -33,7 +32,6 @@ public class Regex {
             return false;
 
         // 下面全是j没到底的情况
-
         if (j + 1 < p.length() && p.charAt(j + 1) == '*') {
 
             if (i < s.length() && (s.charAt(i) == p.charAt(j) || (p.charAt(j) == '.'))) { // i没到底
