@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cc0fbd7-ce4c-4aa3-b83f-eb16829f4b73" name="Default Changelist" comment="利用 与 和 亦或 求和">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/ArrayTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/ArrayToMinNum$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/ArrayToMinNum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/BalanceTree$IsB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/BalanceTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/CopyLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/DeleteRepeatNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/HalfArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/HouxuBianliArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/InversionsInArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/JosephRing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/MinNumInRotateArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/NumberOf1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/RandomListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/RebuilderTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/RectangleCover.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/Regex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/SequenceOfStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/StringPermutation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/StupidFrog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/SubstructureOfATree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/Sum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/SumPath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/TreeToLinkedList.class" afterDir="false" />
+    <list default="true" id="6cc0fbd7-ce4c-4aa3-b83f-eb16829f4b73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,8 +20,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="51" lean-forward="true" selection-start-line="50" selection-end-line="51" />
+            <state relative-caret-position="506">
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/SerializeTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,12 +44,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nowcoder/DeleteRepeatNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            <state relative-caret-position="594">
+              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#118#119#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nowcoder/Regex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+            <state relative-caret-position="880">
+              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -113,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nowcoder/RebuilderTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="440">
+              <caret line="22" column="6" selection-start-line="22" selection-end-line="22" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -163,14 +146,16 @@
         <option value="$PROJECT_DIR$/src/nowcoder/BalanceTree.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/JosephRing.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/Sum.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/nowcoder/Regex.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/DeleteRepeatNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/Regex.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/SerializeTree.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="228" />
+    <option name="x" value="391" />
+    <option name="y" value="1" />
     <option name="width" value="1551" />
     <option name="height" value="1047" />
   </component>
@@ -180,6 +165,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,11 +184,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JianZhiOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JianZhiOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="RebuilderTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -327,7 +319,8 @@
       <workItem from="1559614535940" duration="8336000" />
       <workItem from="1559652127299" duration="2770000" />
       <workItem from="1559693034120" duration="6868000" />
-      <workItem from="1559780889819" duration="6607000" />
+      <workItem from="1559780889819" duration="9251000" />
+      <workItem from="1559894083339" duration="2271000" />
     </task>
     <task id="LOCAL-00001" summary="由前序中序遍历重建二叉树">
       <created>1559378273458</created>
@@ -483,7 +476,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559788988391</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="正则表达式的匹配">
+      <created>1559789224192</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1559789224192</updated>
+    </task>
+    <task id="LOCAL-00024" summary="二叉树的序列化和反序列化">
+      <created>1559895689654</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1559895689654</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -519,13 +526,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49487000" />
+    <option name="totallyTimeSpent" value="54402000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="228" y="0" width="1551" height="1047" extended-state="0" />
+    <frame x="391" y="1" width="1551" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15090543" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1529175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,7 +541,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" visible="true" weight="0.38663745" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.16100767" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3865285" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -543,7 +550,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50033534" side_tool="true" visible="true" weight="0.38663745" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50033534" side_tool="true" weight="0.19386637" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32968238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -582,7 +589,9 @@
     <MESSAGE value="利用 与 和 亦或 求和" />
     <MESSAGE value="正则表达式匹配" />
     <MESSAGE value="删除链表中的重复节点" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除链表中的重复节点" />
+    <MESSAGE value="正则表达式的匹配" />
+    <MESSAGE value="二叉树的序列化和反序列化" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树的序列化和反序列化" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -635,12 +644,6 @@
           <line>22</line>
           <properties />
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -761,6 +764,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/DeleteRepeatNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/Regex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/nowcoder/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -786,13 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nowcoder/RebuilderTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nowcoder/InversionsInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1034">
@@ -800,36 +820,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/SerializeTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nowcoder/Regex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nowcoder/DeleteRepeatNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        <state relative-caret-position="660">
+          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/RebuilderTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="6" selection-start-line="22" selection-end-line="22" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="51" lean-forward="true" selection-start-line="50" selection-end-line="51" />
+        <state relative-caret-position="506">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

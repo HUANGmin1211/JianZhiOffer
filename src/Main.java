@@ -1,5 +1,6 @@
 import org.junit.Test;
 
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
@@ -10,45 +11,29 @@ import java.util.LinkedList;
  */
 public class Main {
 
-    LinkedList<Character> list = new LinkedList<>();
-    LinkedList<Character> setOnce = new LinkedList<>();
-    LinkedList<Character> setMore = new LinkedList<>();
 
-    public void Insert(char ch) {
-        list.add(ch);
-        if (!setMore.contains(ch) && !setOnce.contains(ch))
-            setOnce.add(ch);
-        else if (!setMore.contains(ch) && setOnce.contains(ch)) {
-            int index = setOnce.indexOf(ch);
-            setOnce.remove(index);
-            setMore.add(ch);
-        }
+
+
+}
+//class TreeLinkNode {
+//    int val;
+//    TreeLinkNode left = null;
+//    TreeLinkNode right = null;
+//    TreeLinkNode next = null;
+//
+//    TreeLinkNode(int val) {
+//        this.val = val;
+//    }
+//}
+
+class TreeNode {
+    int val = 0;
+    TreeNode left = null;
+    TreeNode right = null;
+
+    public TreeNode(int val) {
+        this.val = val;
+
     }
-
-    //return the first appearence once char in current stringstream
-    public char FirstAppearingOnce() {
-        if (setOnce.size() != 0)
-            return setOnce.get(0);
-        else
-            return '#';
-    }
-
-    @Test
-    public void test() {
-        Insert('g');
-        System.out.println(FirstAppearingOnce());
-        Insert('o');
-        System.out.println(FirstAppearingOnce());
-        Insert('o');
-        System.out.println(FirstAppearingOnce());
-        Insert('g');
-        System.out.println(FirstAppearingOnce());
-        Insert('l');
-        System.out.println(FirstAppearingOnce());
-        Insert('e');
-        System.out.println(FirstAppearingOnce());
-    }
-
-
 
 }
