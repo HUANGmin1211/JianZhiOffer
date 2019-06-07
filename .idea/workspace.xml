@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc0fbd7-ce4c-4aa3-b83f-eb16829f4b73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/MedianDataStream.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +16,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <state relative-caret-position="157">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/KthNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/MedianDataStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,18 +58,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="660">
               <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/DeleteRepeatNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,13 +162,14 @@
         <option value="$PROJECT_DIR$/src/nowcoder/Regex.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/SerializeTree.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/KthNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/MedianDataStream.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="391" />
-    <option name="y" value="1" />
-    <option name="width" value="1551" />
+    <option name="x" value="-7" />
+    <option name="width" value="1077" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -188,8 +201,7 @@
               <item name="JianZhiOffer" type="b2602c69:ProjectViewProjectNode" />
               <item name="JianZhiOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="RebuilderTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -220,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DeleteRepeatNode.test">
+  <component name="RunManager" selected="JUnit.MedianDataStream.test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JianZhiOffer" />
@@ -244,7 +256,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InversionsInArray.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JianZhiOffer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedianDataStream.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JianZhiOffer" />
       <extension name="coverage">
         <pattern>
@@ -253,17 +275,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="nowcoder" />
-      <option name="MAIN_CLASS_NAME" value="nowcoder.InversionsInArray" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JianZhiOffer" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="nowcoder.MedianDataStream" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -289,17 +301,17 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.Main.test" />
-      <item itemvalue="JUnit.InversionsInArray.test" />
       <item itemvalue="JUnit.Regex.test" />
       <item itemvalue="JUnit.DeleteRepeatNode.test" />
+      <item itemvalue="JUnit.MedianDataStream.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MedianDataStream.test" />
         <item itemvalue="JUnit.DeleteRepeatNode.test" />
         <item itemvalue="JUnit.Main.test" />
         <item itemvalue="JUnit.Regex.test" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.InversionsInArray.test" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +332,7 @@
       <workItem from="1559652127299" duration="2770000" />
       <workItem from="1559693034120" duration="6868000" />
       <workItem from="1559780889819" duration="9251000" />
-      <workItem from="1559894083339" duration="2271000" />
+      <workItem from="1559894083339" duration="4381000" />
     </task>
     <task id="LOCAL-00001" summary="由前序中序遍历重建二叉树">
       <created>1559378273458</created>
@@ -490,25 +502,17 @@
       <option name="project" value="LOCAL" />
       <updated>1559895689654</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="中序遍历第k个节点">
+      <created>1559896542059</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1559896542059</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main_test - 2019.06.06 at 09h 42m 33s.xml">
-      <configuration name="Main.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main_test - 2019.06.06 at 09h 42m 58s.xml">
-      <configuration name="Main.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DeleteRepeatNode_test - 2019.06.06 at 10h 19m 06s.xml">
-      <configuration name="DeleteRepeatNode.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DeleteRepeatNode_test - 2019.06.06 at 10h 19m 41s.xml">
-      <configuration name="DeleteRepeatNode.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DeleteRepeatNode_test - 2019.06.06 at 10h 21m 26s.xml">
-      <configuration name="DeleteRepeatNode.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DeleteRepeatNode_test - 2019.06.06 at 10h 21m 57s.xml">
       <configuration name="DeleteRepeatNode.test" configurationId="JUnit" />
     </history-entry>
@@ -524,15 +528,30 @@
     <history-entry file="DeleteRepeatNode_test - 2019.06.06 at 10h 24m 47s.xml">
       <configuration name="DeleteRepeatNode.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MedianDataStream_test - 2019.06.07 at 17h 04m 12s.xml">
+      <configuration name="MedianDataStream.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedianDataStream_test - 2019.06.07 at 17h 05m 27s.xml">
+      <configuration name="MedianDataStream.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedianDataStream_test - 2019.06.07 at 17h 05m 41s.xml">
+      <configuration name="MedianDataStream.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedianDataStream_test - 2019.06.07 at 17h 07m 51s.xml">
+      <configuration name="MedianDataStream.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MedianDataStream_test - 2019.06.07 at 17h 07m 53s.xml">
+      <configuration name="MedianDataStream.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54402000" />
+    <option name="totallyTimeSpent" value="56512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="391" y="1" width="1551" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1529175" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1529175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -541,8 +560,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.16100767" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3865285" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.2705367" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.27820373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -591,7 +610,8 @@
     <MESSAGE value="删除链表中的重复节点" />
     <MESSAGE value="正则表达式的匹配" />
     <MESSAGE value="二叉树的序列化和反序列化" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉树的序列化和反序列化" />
+    <MESSAGE value="中序遍历第k个节点" />
+    <option name="LAST_COMMIT_MESSAGE" value="中序遍历第k个节点" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -644,6 +664,12 @@
           <line>22</line>
           <properties />
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowcoder/MedianDataStream.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -839,10 +865,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        <state relative-caret-position="157">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/KthNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/MedianDataStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
           </folding>
         </state>
       </provider>
