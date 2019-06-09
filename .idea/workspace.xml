@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc0fbd7-ce4c-4aa3-b83f-eb16829f4b73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nowcoder/MedianDataStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JianZhiOffer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JianZhiOffer/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/StupidFrog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/StupidFrog.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,106 +23,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="334">
+              <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/KthNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/MedianDataStream.java">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/StupidFrog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1188">
+              <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/SerializeTree.java">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/WindowMaxValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            <state relative-caret-position="396">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/Regex.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/Sum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/JosephRing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/BalanceTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-              <folding>
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/RebuilderTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" column="6" selection-start-line="22" selection-end-line="22" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nowcoder/InversionsInArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1034">
-              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -141,7 +71,6 @@
         <option value="$PROJECT_DIR$/src/RebuilderTree.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/RebuilderTree.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/MinNumInRotateArray.java" />
-        <option value="$PROJECT_DIR$/src/nowcoder/StupidFrog.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/RectangleCover.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/ArrayTest1.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/SubstructureOfATree.java" />
@@ -161,15 +90,18 @@
         <option value="$PROJECT_DIR$/src/nowcoder/DeleteRepeatNode.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/Regex.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/SerializeTree.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/KthNode.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/MedianDataStream.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/WindowMaxValue.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/PathInMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/StupidFrog.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1077" />
+    <option name="width" value="917" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -179,6 +111,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,17 +130,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JianZhiOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JianZhiOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,14 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MedianDataStream.test">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JianZhiOffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Main.test">
     <configuration name="DeleteRepeatNode.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JianZhiOffer" />
       <extension name="coverage">
@@ -282,7 +201,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Regex.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PathInMatrix.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JianZhiOffer" />
       <extension name="coverage">
         <pattern>
@@ -291,7 +210,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="nowcoder" />
-      <option name="MAIN_CLASS_NAME" value="nowcoder.Regex" />
+      <option name="MAIN_CLASS_NAME" value="nowcoder.PathInMatrix" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowMaxValue.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JianZhiOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nowcoder" />
+      <option name="MAIN_CLASS_NAME" value="nowcoder.WindowMaxValue" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -299,19 +234,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.Main.test" />
-      <item itemvalue="JUnit.Regex.test" />
       <item itemvalue="JUnit.DeleteRepeatNode.test" />
       <item itemvalue="JUnit.MedianDataStream.test" />
+      <item itemvalue="JUnit.WindowMaxValue.test" />
+      <item itemvalue="JUnit.PathInMatrix.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Main.test" />
+        <item itemvalue="JUnit.PathInMatrix.test" />
+        <item itemvalue="JUnit.WindowMaxValue.test" />
         <item itemvalue="JUnit.MedianDataStream.test" />
         <item itemvalue="JUnit.DeleteRepeatNode.test" />
-        <item itemvalue="JUnit.Main.test" />
-        <item itemvalue="JUnit.Regex.test" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +267,8 @@
       <workItem from="1559652127299" duration="2770000" />
       <workItem from="1559693034120" duration="6868000" />
       <workItem from="1559780889819" duration="9251000" />
-      <workItem from="1559894083339" duration="4381000" />
+      <workItem from="1559894083339" duration="11765000" />
+      <workItem from="1560088775153" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="由前序中序遍历重建二叉树">
       <created>1559378273458</created>
@@ -509,49 +445,63 @@
       <option name="project" value="LOCAL" />
       <updated>1559896542059</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="数据流的中位数">
+      <created>1559898525375</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1559898525375</updated>
+    </task>
+    <task id="LOCAL-00027" summary="滑动窗口的最大值">
+      <created>1559901075052</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1559901075052</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DeleteRepeatNode_test - 2019.06.06 at 10h 21m 57s.xml">
-      <configuration name="DeleteRepeatNode.test" configurationId="JUnit" />
+    <history-entry file="PathInMatrix_test - 2019.06.07 at 19h 04m 07s.xml">
+      <configuration name="PathInMatrix.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DeleteRepeatNode_test - 2019.06.06 at 10h 22m 47s.xml">
-      <configuration name="DeleteRepeatNode.test" configurationId="JUnit" />
+    <history-entry file="PathInMatrix_test - 2019.06.07 at 19h 06m 19s.xml">
+      <configuration name="PathInMatrix.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DeleteRepeatNode_test - 2019.06.06 at 10h 23m 17s.xml">
-      <configuration name="DeleteRepeatNode.test" configurationId="JUnit" />
+    <history-entry file="PathInMatrix_test - 2019.06.07 at 19h 06m 53s.xml">
+      <configuration name="PathInMatrix.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DeleteRepeatNode_test - 2019.06.06 at 10h 24m 38s.xml">
-      <configuration name="DeleteRepeatNode.test" configurationId="JUnit" />
+    <history-entry file="PathInMatrix_test - 2019.06.07 at 19h 10m 16s.xml">
+      <configuration name="PathInMatrix.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DeleteRepeatNode_test - 2019.06.06 at 10h 24m 47s.xml">
-      <configuration name="DeleteRepeatNode.test" configurationId="JUnit" />
+    <history-entry file="PathInMatrix_test - 2019.06.07 at 19h 13m 02s.xml">
+      <configuration name="PathInMatrix.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MedianDataStream_test - 2019.06.07 at 17h 04m 12s.xml">
-      <configuration name="MedianDataStream.test" configurationId="JUnit" />
+    <history-entry file="PathInMatrix_test - 2019.06.07 at 19h 13m 04s.xml">
+      <configuration name="PathInMatrix.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MedianDataStream_test - 2019.06.07 at 17h 05m 27s.xml">
-      <configuration name="MedianDataStream.test" configurationId="JUnit" />
+    <history-entry file="Main_test - 2019.06.07 at 19h 24m 56s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MedianDataStream_test - 2019.06.07 at 17h 05m 41s.xml">
-      <configuration name="MedianDataStream.test" configurationId="JUnit" />
+    <history-entry file="Main_test - 2019.06.07 at 19h 25m 18s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MedianDataStream_test - 2019.06.07 at 17h 07m 51s.xml">
-      <configuration name="MedianDataStream.test" configurationId="JUnit" />
+    <history-entry file="Main_test - 2019.06.07 at 19h 25m 24s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MedianDataStream_test - 2019.06.07 at 17h 07m 53s.xml">
-      <configuration name="MedianDataStream.test" configurationId="JUnit" />
+    <history-entry file="Main_test - 2019.06.07 at 19h 35m 47s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56512000" />
+    <option name="totallyTimeSpent" value="63956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="391" y="1" width="1551" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="917" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1529175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3092182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -560,8 +510,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.2705367" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.27820373" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.20700985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43263966" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -586,8 +536,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="由前序中序遍历重建二叉树" />
-    <MESSAGE value="旋转数组的最小数字" />
     <MESSAGE value="青蛙跳台阶" />
     <MESSAGE value="举行覆盖" />
     <MESSAGE value="数组奇数放前偶数放后" />
@@ -611,7 +559,9 @@
     <MESSAGE value="正则表达式的匹配" />
     <MESSAGE value="二叉树的序列化和反序列化" />
     <MESSAGE value="中序遍历第k个节点" />
-    <option name="LAST_COMMIT_MESSAGE" value="中序遍历第k个节点" />
+    <MESSAGE value="数据流的中位数" />
+    <MESSAGE value="滑动窗口的最大值" />
+    <option name="LAST_COMMIT_MESSAGE" value="滑动窗口的最大值" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -671,6 +621,12 @@
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowcoder/WindowMaxValue.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -679,20 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nowcoder/StupidFrog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nowcoder/RectangleCover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -765,17 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nowcoder/NumberOf1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nowcoder/ArrayToMinNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
@@ -787,13 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -811,13 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nowcoder/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -849,7 +766,7 @@
     <entry file="file://$PROJECT_DIR$/src/nowcoder/SerializeTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
-          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -863,34 +780,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nowcoder/KthNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/NumberOf1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/RectangleCover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nowcoder/MedianDataStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="467">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/PathInMatrix.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/WindowMaxValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/StupidFrog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
         </state>
       </provider>
     </entry>
