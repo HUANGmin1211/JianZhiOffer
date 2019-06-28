@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.LinkedList;
+import java.util.concurrent.CyclicBarrier;
 
 /**
  * 地上有一个m行和n列的方格。
@@ -71,5 +72,6 @@ public class Main {
     public void test() {
         System.out.println(movingCount(15, 20, 20));
     }
+
 
 }

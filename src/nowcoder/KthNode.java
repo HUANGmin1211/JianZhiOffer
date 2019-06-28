@@ -19,7 +19,6 @@ public class KthNode {
         index++;
         if (index == k)
             return pRoot;
-
         if (pRoot.right != null) {
             TreeNode node = KthNode(pRoot.right, k);
             if (node != null)

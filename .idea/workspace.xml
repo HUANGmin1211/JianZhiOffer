@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc0fbd7-ce4c-4aa3-b83f-eb16829f4b73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ThreadTest/TestCountDownLatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JianZhiOffer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JianZhiOffer/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/KthNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/KthNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/StupidFrog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JianZhiOffer/nowcoder/StupidFrog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nowcoder/StupidFrog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/StupidFrog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/KthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/KthNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/TestCyclicBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadTest/TestCyclicBarrier.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+            <state relative-caret-position="515">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,11 +35,42 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThreadTest/TestCyclicBarrier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ThreadTest/TestCountDownLatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/KthNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nowcoder/StupidFrog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+            <state relative-caret-position="489">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -90,18 +124,22 @@
         <option value="$PROJECT_DIR$/src/nowcoder/DeleteRepeatNode.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/Regex.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/SerializeTree.java" />
-        <option value="$PROJECT_DIR$/src/nowcoder/KthNode.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/MedianDataStream.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/WindowMaxValue.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/PathInMatrix.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/nowcoder/StupidFrog.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/ThreadWithCyclicBarrier.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/TestCyclicBarrier.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/KthNode.java" />
+        <option value="$PROJECT_DIR$/src/ThreadTest/TestCountDownLatch.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="917" />
+    <option name="x" value="135" />
+    <option name="y" value="6" />
+    <option name="width" value="1446" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -110,8 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,16 +160,12 @@
               <item name="JianZhiOffer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JianZhiOffer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JianZhiOffer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,6 +177,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="nowcoder" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,19 +196,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Main.test">
-    <configuration name="DeleteRepeatNode.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestCountDownLatch">
+    <configuration name="Participant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Participant" />
+      <module name="JianZhiOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCountDownLatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadTest.TestCountDownLatch" />
       <module name="JianZhiOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nowcoder.*" />
+          <option name="PATTERN" value="ThreadTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="nowcoder" />
-      <option name="MAIN_CLASS_NAME" value="nowcoder.DeleteRepeatNode" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCyclicBarrier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadTest.TestCyclicBarrier" />
+      <module name="JianZhiOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreadTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -185,27 +240,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianDataStream.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JianZhiOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="nowcoder" />
-      <option name="MAIN_CLASS_NAME" value="nowcoder.MedianDataStream" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PathInMatrix.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JianZhiOffer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nowcoder.*" />
+          <option name="PATTERN" value="ThreadTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,36 +256,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowMaxValue.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JianZhiOffer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="nowcoder" />
-      <option name="MAIN_CLASS_NAME" value="nowcoder.WindowMaxValue" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="JUnit.Main.test" />
-      <item itemvalue="JUnit.DeleteRepeatNode.test" />
-      <item itemvalue="JUnit.MedianDataStream.test" />
-      <item itemvalue="JUnit.WindowMaxValue.test" />
       <item itemvalue="JUnit.PathInMatrix.test" />
+      <item itemvalue="Application.Participant" />
+      <item itemvalue="Application.TestCyclicBarrier" />
+      <item itemvalue="Application.TestCountDownLatch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCountDownLatch" />
+        <item itemvalue="Application.TestCyclicBarrier" />
+        <item itemvalue="Application.Participant" />
         <item itemvalue="JUnit.Main.test" />
         <item itemvalue="JUnit.PathInMatrix.test" />
-        <item itemvalue="JUnit.WindowMaxValue.test" />
-        <item itemvalue="JUnit.MedianDataStream.test" />
-        <item itemvalue="JUnit.DeleteRepeatNode.test" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +291,8 @@
       <workItem from="1559693034120" duration="6868000" />
       <workItem from="1559780889819" duration="9251000" />
       <workItem from="1559894083339" duration="11765000" />
-      <workItem from="1560088775153" duration="60000" />
+      <workItem from="1560088775153" duration="213000" />
+      <workItem from="1561683904607" duration="2707000" />
     </task>
     <task id="LOCAL-00001" summary="由前序中序遍历重建二叉树">
       <created>1559378273458</created>
@@ -459,7 +483,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559901075052</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="🐸跳台阶的非递归版本">
+      <created>1560088921063</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1560088921063</updated>
+    </task>
+    <task id="LOCAL-00029" summary="同步屏障CyclicBarrier">
+      <created>1561685625579</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1561685625579</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -495,13 +533,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63956000" />
+    <option name="totallyTimeSpent" value="66816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="917" height="1047" extended-state="0" />
+    <frame x="135" y="6" width="1446" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3092182" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22222222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -510,7 +548,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966466" weight="0.20700985" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49966466" visible="true" weight="0.36144578" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43263966" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -536,8 +574,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="青蛙跳台阶" />
-    <MESSAGE value="举行覆盖" />
     <MESSAGE value="数组奇数放前偶数放后" />
     <MESSAGE value="树的子结构" />
     <MESSAGE value="栈的压入弹出序列" />
@@ -561,7 +597,9 @@
     <MESSAGE value="中序遍历第k个节点" />
     <MESSAGE value="数据流的中位数" />
     <MESSAGE value="滑动窗口的最大值" />
-    <option name="LAST_COMMIT_MESSAGE" value="滑动窗口的最大值" />
+    <MESSAGE value="跳台阶的非递归版本" />
+    <MESSAGE value="同步屏障CyclicBarrier" />
+    <option name="LAST_COMMIT_MESSAGE" value="同步屏障CyclicBarrier" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -787,13 +825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nowcoder/KthNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nowcoder/NumberOf1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -826,16 +857,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nowcoder/PathInMatrix.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nowcoder/WindowMaxValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -848,8 +869,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nowcoder/StupidFrog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        <state relative-caret-position="489">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/ThreadWithCyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/KthNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadTest/TestCyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThreadTest/TestCountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
     </entry>
