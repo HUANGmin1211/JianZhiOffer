@@ -9,7 +9,7 @@ public class TestCyclicBarrier {
         CyclicBarrier cyclicBarrier = new CyclicBarrier(5, new Runnable() {
             @Override
             public void run() {
-                System.out.println("all work down");
+                System.out.println("都到达了，先执行我");
             }
         });
 

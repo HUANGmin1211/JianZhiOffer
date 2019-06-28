@@ -37,7 +37,6 @@ class ThreadWithCountDownLatch implements Runnable {
         try {
             System.out.println("Thread " + id + " start~");
             Thread.sleep(2000);
-            countDownLatch.countDown();
 //            System.out.println("Thread " + id + " end~");
         } catch (InterruptedException e) {
             e.printStackTrace();
